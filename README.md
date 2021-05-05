@@ -12,6 +12,7 @@ For instructions watch this video-
 Import the packages and initialize with your tradingview username and password.
 
 If running for first time it will prompt chromedriver download, type 'y' and press enter.
+Try: https://medium.com/@mikelcbrowne/running-chromedriver-with-python-selenium-on-heroku-acc1566d161c
 
 ```
 
